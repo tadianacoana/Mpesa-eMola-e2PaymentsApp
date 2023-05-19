@@ -19,7 +19,7 @@
       </q-toolbar>
     </q-header>
 
-    <q-drawer
+    <!--<q-drawer
       v-model="isDrawerOpen"
       show-if-above
       :width="300"
@@ -42,7 +42,7 @@
 
         </q-list>
       </q-scroll-area>
-    </q-drawer>
+    </q-drawer> -->
 
     <q-page-container>
       <router-view />
